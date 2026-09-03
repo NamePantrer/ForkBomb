@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="480" viewBox="0 0 860 480">
+  <style>
+    text { font-family: Segoe UI, sans-serif; fill: #1a1a1a; font-size: 12px; }
+    .title { font-size: 16px; font-weight: 600; }
+    .caption { font-size: 11px; fill: #555; }
+    line { stroke: #ddd; stroke-width: 1; }
+    .frame { stroke: #333; fill: none; }
+    .series { fill: none; stroke: #1d4ed8; stroke-width: 2; }
+  </style>
+  <text class="title" x="80" y="28">Число процессов в ОС во времени</text>
+  <text class="caption" x="80" y="46">process_count.csv</text>
+  <line x1="80.0" y1="404.0" x2="820.0" y2="404.0" />
+  <line x1="80.0" y1="64.0" x2="80.0" y2="404.0" />
+  <text x="72.0" y="408.0" text-anchor="end">363</text>
+  <text x="80.0" y="422.0" text-anchor="middle">0.0</text>
+  <line x1="80.0" y1="336.0" x2="820.0" y2="336.0" />
+  <line x1="228.0" y1="64.0" x2="228.0" y2="404.0" />
+  <text x="72.0" y="340.0" text-anchor="end">371</text>
+  <text x="228.0" y="422.0" text-anchor="middle">1.6</text>
+  <line x1="80.0" y1="268.0" x2="820.0" y2="268.0" />
+  <line x1="376.0" y1="64.0" x2="376.0" y2="404.0" />
+  <text x="72.0" y="272.0" text-anchor="end">378</text>
+  <text x="376.0" y="422.0" text-anchor="middle">3.3</text>
+  <line x1="80.0" y1="200.0" x2="820.0" y2="200.0" />
+  <line x1="524.0" y1="64.0" x2="524.0" y2="404.0" />
+  <text x="72.0" y="204.0" text-anchor="end">386</text>
+  <text x="524.0" y="422.0" text-anchor="middle">4.9</text>
+  <line x1="80.0" y1="132.0" x2="820.0" y2="132.0" />
+  <line x1="672.0" y1="64.0" x2="672.0" y2="404.0" />
+  <text x="72.0" y="136.0" text-anchor="end">393</text>
+  <text x="672.0" y="422.0" text-anchor="middle">6.5</text>
+  <line x1="80.0" y1="64.0" x2="820.0" y2="64.0" />
+  <line x1="820.0" y1="64.0" x2="820.0" y2="404.0" />
+  <text x="72.0" y="68.0" text-anchor="end">401</text>
+  <text x="820.0" y="422.0" text-anchor="middle">8.2</text>
+  <rect class="frame" x="80.0" y="64.0" width="740.0" height="340.0" />
+  <polyline class="series" points="80.0,380.6 95.6,380.6 111.2,380.6 126.8,380.6 142.4,380.6 157.7,380.6 173.3,380.6 188.9,380.6 204.4,380.6 219.8,380.6 235.2,380.6 250.7,380.6 278.4,87.4 293.2,87.4 308.8,87.4 324.3,87.4 339.7,87.4 355.2,87.4 370.8,87.4 386.3,87.4 401.9,87.4 417.2,87.4 432.9,87.4 448.4,87.4 463.7,87.4 479.2,87.4 494.9,87.4 510.1,87.4 525.5,87.4 540.9,87.4 556.5,87.4 572.3,87.4 587.5,87.4 603.3,87.4 618.7,87.4 634.2,160.7 649.9,380.6 665.5,380.6 681.0,380.6 696.7,380.6 712.3,380.6 726.4,380.6 742.2,380.6 758.0,371.4 773.5,371.4 788.9,371.4 804.4,371.4 820.0,371.4 " />
+  <text x="450.0" y="455" text-anchor="middle">t, s</text>
+  <text x="22" y="234.0" text-anchor="middle" transform="rotate(-90 22 234.0)">N</text>
+</svg>
